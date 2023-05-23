@@ -1,2 +1,2 @@
-# mindfulness
+# werkweek
 website over werkweek
